@@ -34,7 +34,6 @@
 - `icon.png`：当前使用的图标原图。
 - `新建txt.icns`：由 `icon.png` 生成的 macOS 图标。
 - `scripts/make_icns.py`：把 iconset PNG 打包为 `.icns` 的脚本。
-- `scripts/render_icon.swift`：早期线形图标生成脚本，保留作参考。
 
 ## 打包 Release
 
