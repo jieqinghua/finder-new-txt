@@ -2,6 +2,10 @@
 
 一个可以拖到 Finder 工具栏的 macOS 小应用。点击后会在当前 Finder 窗口所在文件夹中新建空白 `.txt` 文件。
 
+## 演示
+
+![新建txt 使用演示](demo.gif)
+
 ## 下载
 
 从 GitHub Release 下载 `新建txt.app.zip`，解压后得到 `新建txt.app`。
