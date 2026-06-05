@@ -1,14 +1,17 @@
 .DS_Store
 .swift-cache/
 
-# Generated icon variants and temporary iconsets
+# Generated icon variants and temporary iconsets.
 *.iconset/
-icon 1.png
+user-icon.iconset/
 
-# Local test output
+# Release artifacts.
+*.zip
+
+# Local test output.
 新建文本文件.txt
 
-# Old experiments/backups
+# Old experiments/backups.
 *backup.app/
 *.backup.*
 *.renamed-backup.*
